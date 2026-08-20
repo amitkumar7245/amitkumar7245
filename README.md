@@ -161,8 +161,8 @@ A pathology laboratory management system designed to manage patients, tests, doc
 <img src="https://img.shields.io/badge/Email-amit%40digionweb.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-<a href="https://github.com/amitkumardevai">
-<img src="https://img.shields.io/badge/GitHub-amitkumardevai-black?style=for-the-badge&logo=github" alt="GitHub" />
+<a href="https://github.com/amitkumar7245">
+<img src="https://img.shields.io/badge/GitHub-amitkumar7245-black?style=for-the-badge&logo=github" alt="GitHub" />
 </a>
 
 <a href="https://twitter.com/amitkumar7245">
