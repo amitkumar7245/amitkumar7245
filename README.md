@@ -31,12 +31,22 @@ I'm a passionate **Full Stack Developer from India** who enjoys building scalabl
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 My GitHub Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amitkumardevai&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumardevai&layout=compact&langs_count=10&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitkumar7245&theme=github_dark" alt="GitHub Profile Details" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amitkumar7245&theme=github_dark" alt="Repositories Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amitkumar7245&theme=github_dark" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amitkumar7245&theme=github_dark" alt="GitHub Statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amitkumar7245&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
+</p>
+
 
 ---
 
