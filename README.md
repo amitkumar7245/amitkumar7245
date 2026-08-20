@@ -50,29 +50,6 @@ I'm a passionate **Full Stack Developer from India** who enjoys building scalabl
 
 ---
 
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=amitkumardevai&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitkumardevai&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amitkumardevai&no-frame=true&no-bg=true&margin-w=10&row=2&column=6" alt="GitHub Trophies" />
-</p>
-
----
 
 # 📌 GitHub Overview
 
